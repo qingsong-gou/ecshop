@@ -56,6 +56,8 @@ class Base(object):
     def quit(self):
         self.driver.quit()
 
+
 # if __name__ == '__main__':
 #     driver = open_browser()
 #     print(driver)
+
